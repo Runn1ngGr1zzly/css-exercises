@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.pElements {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+.thirdElementFont {
+    font-size: 24px;
+}
+
+#fourthElementCustom {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
